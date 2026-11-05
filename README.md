@@ -1,4 +1,16 @@
-# MediaGoByeBye
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ItzMeShadow999/My-assets/main/mediaGoByeBye.png" width="150" alt="MediaGoByeBye icon">
+</p>
+
+<h1 align="center">MediaGoByeBye</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/license-GPL--3.0--or--later-2F3437?style=flat-square&labelColor=191919" alt="License GPL-3.0-or-later">
+  <img src="https://img.shields.io/badge/Vencord-userplugin-2F3437?style=flat-square&labelColor=191919" alt="Vencord userplugin">
+  <img src="https://img.shields.io/badge/Equicord-userplugin-2F3437?style=flat-square&labelColor=191919" alt="Equicord userplugin">
+  <img src="https://img.shields.io/badge/language-TypeScript-2F3437?style=flat-square&labelColor=191919" alt="TypeScript">
+  <img src="https://img.shields.io/badge/installer-Windows%20PowerShell-2F3437?style=flat-square&labelColor=191919" alt="Windows PowerShell installer">
+</p>
 
 A [Vencord](https://github.com/Vencord/Vencord) / [Equicord](https://github.com/Equicord/Equicord) plugin that blurs, covers or completely removes media in chat. Videos, images, GIFs, stickers and link embeds can each be controlled on their own, or all at once with one global mode.
 
